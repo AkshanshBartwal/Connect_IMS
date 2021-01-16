@@ -51,6 +51,7 @@
             color: black;
 
         }
+        
     </style>
 
 </head>
@@ -60,7 +61,7 @@
         <div class="container">
             <div class="row no-gutters">
                 <div class="col-lg-5">
-                    <img src="tendua.png" class="img-fluid" alt="">
+                    <img src="image.jpeg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-7 px-5 pt-5">
                     <h1 class="font-wieght-bold py-3">Welcome!</h1>
@@ -108,7 +109,7 @@
     </section>
     <footer class="py-5 bg-dark">
         <div class="container">
-            <p class="m-0 text-center text-white">Copyright &copy;Tendua.inc@2020</p>
+            <p class="m-0 text-center text-white">Copyright &copy;Connect_IMS.inc@2020</p>
         </div>
         <!-- /.container -->
     </footer>

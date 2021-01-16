@@ -17,7 +17,7 @@ else{
   <meta name="description" content="">
   <meta name="author" content="">
   <link rel="icon" href="1607421792.ico">
-  <title>Tendua</title>
+  <title>Connect IMS</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@ else{
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="#">tendua</a>
+      <a class="navbar-brand" href="#">Connect IMS</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -146,7 +146,7 @@ else{
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy;Tendua.inc@2020</p>
+      <p class="m-0 text-center text-white">Copyright &copy;Connect_IMS.inc@2020</p>
     </div>
     <!-- /.container -->
   </footer>
