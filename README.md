@@ -48,7 +48,7 @@
 
 ---
 _Developed by_
->Backend By **[Akshansh-Bartwal](https://github.com/AkshanshBartwal)** 
+> **[Akshansh-Bartwal](https://github.com/AkshanshBartwal)** 
 
 
 
