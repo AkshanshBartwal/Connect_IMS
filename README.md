@@ -29,11 +29,11 @@
 > **These screenshots visualize current state of website so it might change as it still is in development state.**
 
 
-![tendua_login](?raw=true)
+![tendua_login](https://github.com/AkshanshBartwal/Connect_IMS/blob/new/loginPage.PNG?raw=true)
 
-![tendua_login](?raw=true) 
+![tendua_login](https://github.com/AkshanshBartwal/Connect_IMS/blob/new/homePage.PNG?raw=true) 
 
-![tendua_login](?raw=true)
+![tendua_login](https://github.com/AkshanshBartwal/Connect_IMS/blob/new/profilePage.PNG?raw=true)
 </br>
 
 ---
